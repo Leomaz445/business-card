@@ -1,0 +1,86 @@
+.profile {
+  width: 100%;
+}
+
+.image-container {
+  width: 100%;
+  height: 317px;
+  overflow: hidden;
+  position: relative;
+  border-radius: 15px 15px 0 0;
+}
+
+.cropped-image {
+  width: 484px;
+  height: 484px;
+  top: -30px;
+  left: -30px;
+  position: absolute;
+}
+
+.info {
+  padding: 20px;
+}
+
+.profile-name, .job-title, .web-profile {
+  margin: 0;
+  text-align: center;
+}
+
+.profile-name {
+  font-size: 30px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.job-title {
+  font-size: 13px;
+  font-weight: 400;
+  color: #F3BF99;
+  margin-top: 10px;
+}
+
+.web-profile {
+  font-size: 12px;
+  font-weight: 400;
+  color: #F5F5F5;
+  margin-top: 10px;
+  text-decoration: none;
+  margin: 0px;
+  padding: 107px;
+
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.email-button, .linkdin-button {
+  width: 115px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
+
+.email-button {
+  background-color: #FFFFFF;
+  color: #374151;
+}
+
+.linkdin-button {
+  background-color: #5093E2;
+  color: #FFFFFF;
+}
+
+.button-image-email, .button-image-linkdin {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}

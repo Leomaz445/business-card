@@ -1,0 +1,17 @@
+.about-container {
+  padding: 20px;
+}
+
+.about-header, .projects-header {
+  font-size: 16px;
+  font-weight: 700;
+  color: #DCDCDC;
+  margin: 0 0 10px 0;
+}
+
+.about-message {
+  font-size: 15px;
+  font-weight: 400;
+  color: #DCDCDC;
+  margin: 0 0 20px 0;
+}

@@ -1,0 +1,23 @@
+.keyProjects-container {
+  padding: 20px;
+  margin-bottom: 20px; 
+}
+
+.keyProjects-header {
+  font-size: 16px;
+  font-weight: 700;
+  color: #DCDCDC;
+  margin: 0 0 10px 0;
+}
+
+.keyProjects-list {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+  font-weight: 400;
+  color: #DCDCDC;
+}
+
+.keyProjects-list li {
+  margin-bottom: 10px;
+}
