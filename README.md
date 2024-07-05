@@ -1,3 +1,4 @@
+
 # Business Card
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fleomaz-card.netlify.app%2F)
@@ -40,24 +41,46 @@ You will need to have Node.js and npm installed on your machine. You can downloa
 1. Clone the repository
    ```sh
    git clone https://github.com/yourusername/business-card.git
-
-2.Navigate to the project directory
-  ```sh
-  cd business-card
-
-3.Install the dependencies
-  ```sh
-  npm install
-
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd business-card
+   ```
+3. Install the dependencies
+   ```sh
+   npm install
+   ```
 
 ## Usage
-To start the development server, run the following command:
- ```sh
-npm start
 
+To start the development server, run the following command:
+   ```sh
+   npm start
+   ```
 This will run the app in the development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
 To build the project for production, run:
- ```sh
-npm run build
+   ```sh
+   npm run build
+   ```
 This will build the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+LeoMaz - [leomaz445@gmail.com](mailto:leomaz445@gmail.com)
+
+Project Link: [https://github.com/Leomaz445/business-card](https://github.com/Leomaz445/business-card)
